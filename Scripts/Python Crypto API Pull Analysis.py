@@ -16,9 +16,10 @@ parameters = {
   'limit':'15',
   'convert':'USD'
 }
+#Enter your Coinmarketcap API key Here
 headers = {
   'Accepts': 'application/json',
-  'X-CMC_PRO_API_KEY': '0ad53085-1cb2-4eb8-ad9e-3ffbd7e56509',
+  'X-CMC_PRO_API_KEY': '0ad53085-1cb2-4eb8-ad9e-3ffbd7e56509',  
 }
 
 session = Session()
@@ -211,7 +212,7 @@ def api_runner():
     }
     headers = {
         'Accepts': 'application/json',
-        'X-CMC_PRO_API_KEY': 'ebbd4f5e-e846-4c51-a351-80eec3e5d595',  # 👈 replace with your API key
+        'X-CMC_PRO_API_KEY': '0ad53085-1cb2-4eb8-ad9e-3ffbd7e56509',  # 👈 replace with your API key
     }
 
     session = Session()
