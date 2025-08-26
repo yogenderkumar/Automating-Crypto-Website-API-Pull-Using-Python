@@ -1,13 +1,12 @@
-# Automating-Crypto-Website-API-Pull-Using-Python
-This Python project pulls cryptocurrency data from an API and analyzes it in Excel.
+# 💰 Automating-Crypto-Website-API-Pull-Using-Python
 
-# 💰 Cryptocurrency Data Automation with Python
+Cryptocurrency Data Automation with Python project pulls cryptocurrency data from an API and analyzes & visualize it in Excel.
 
 ## 🔎 Project Overview
 
-This project automates the process of pulling live cryptocurrency data from the **CoinMarketCap API**, cleaning it, & storing it in CSV/Excel, and visualizing market trends using Python.  
-It is designed to fetch live data for thousands of cryptocurrencies, process it, and make it ready for **data analytics and reporting**.
-Cryptocurrency data changes every second, and analyzing it manually is inefficient.
+- Cryptocurrency data changes every second, and analyzing it manually is inefficient.
+- This project automates the process of pulling live cryptocurrency data from the **CoinMarketCap API**, and visualizing market trends.  
+- It fetches live data for thousands of cryptocurrencies, process it, and make it ready for **data analytics and reporting** using Python.
 
 This project solves that problem by:  
 - **Automating API calls** to fetch thousands of cryptocurrencies in real-time.  
@@ -58,10 +57,10 @@ This project demonstrates **API automation, data handling, and real-world financ
 
 ## 🔑 API Key Generation
 
-This project fetches cryptocurrency data using the **CoinMarketCap API**.  
-To run it successfully, you’ll need to generate a free API key from the CoinMarketCap website and configure it in the script.
+- This project fetches cryptocurrency data using the **CoinMarketCap API**.  
+- To run it successfully, you’ll need to generate a free API key from the CoinMarketCap website and configure it in the script.
 
-# How to Generate and Use a CoinMarketCap API Key
+**How to Generate and Use a CoinMarketCap API Key-**
 
 1. Go to [CoinMarketCap Developer Portal](https://coinmarketcap.com/api/).  
 2. Click **"Get Your API Key Now"** or **"Sign Up"**.  
@@ -92,7 +91,3 @@ To run it successfully, you’ll need to generate a free API key from the CoinMa
 - 💼 **Portfolio Tracker** → Automate daily price updates for investments  
 
 ---
-
-
-
-
