@@ -34,4 +34,16 @@ It is designed as a **Data Analyst project** to showcase skills in **Python, API
 
 ---
 
+# 🔑 How to Generate and Use a CoinMarketCap API Key
+
+This project fetches cryptocurrency data using the **CoinMarketCap API**.  
+To run it successfully, you’ll need to generate a free API key from the CoinMarketCap website and configure it in the script.
+
+## 📝 Step 1: Create a CoinMarketCap Account
+
+1. Go to [CoinMarketCap Developer Portal](https://coinmarketcap.com/api/).  
+2. Click **"Get Your API Key Now"** or **"Sign Up"**.  
+3. Create a free account using your email ID.  
+
+---
 ## 📂 Project Structure
